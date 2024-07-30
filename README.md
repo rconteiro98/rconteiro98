@@ -11,7 +11,7 @@
 - <b>Python</b>
  
 
-<h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="Rubén Conteiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/ruben-conteiro-8b06a3204/
+<h2>🤳 Connect with me:</h2>
+<a href="https://linkedin.com/in/ruben-conteiro-8b06a3204/" target="_blank">
+  <img align="left" alt="Rubén Conteiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
