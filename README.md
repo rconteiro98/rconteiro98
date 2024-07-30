@@ -15,7 +15,7 @@ While technology is my primary passion, I am equally driven by the business aspe
 <!-- List your Cybersecurity projects here -->
 
 ## 👨‍💻 Investigation Projects:
-- **Study of Open RAN Architecture as an Alternative Radio Access Network in Paraguay**
+- **[Study of Open RAN Architecture as an Alternative Radio Access Network in Paraguay](https://drive.google.com/file/d/1x-LXsrnsIo4DgiU5CNKhUUsWkO5_2J4U/view?usp=sharing)**
 
 ## 👨‍💻 Programming Projects:
 - **Data Structures and Algorithms Practice (AlgoExpert)**
