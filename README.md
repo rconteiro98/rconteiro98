@@ -1,17 +1,29 @@
-<h1>Hello, I'm Rubén! <br/><a href="https://github.com/rconteiro98">Electronis Engineer</a>, <a href="https://www.linkedin.com/in/ruben-conteiro-8b06a3204/">Cybersecurity and Programming Enthusiast</a>
+# Hello, I'm Rubén!
+[![Electronics Engineer](https://img.shields.io/badge/-Electronics%20Engineer-brightgreen)](https://github.com/rconteiro98)
+[![Cybersecurity and Programming Enthusiast](https://img.shields.io/badge/-Cybersecurity%20and%20Programming%20Enthusiast-blue)](https://www.linkedin.com/in/ruben-conteiro-8b06a3204/)
 
-<h2>👨‍💻 IT Projects:</h2>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-<h2>👨‍💻 Investigation Projects:</h2>
-<h2>👨‍💻 Programming Projects:</h2>
+I am an Electronics Engineer with extensive experience in Information and Communication Technology. My work in designing technology solutions for major companies in Paraguay has enriched my knowledge in diverse fields and domains within this dynamic market, including IoT, turnkey automation solutions, network and cybersecurity, programming, and more.
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-- <b>PowerShell</b>
-- <b>C# (.NET Desktop Applications)</b>
-- <b>Python</b>
- 
+I have a strong passion for telecommunications, particularly mobile networks. This interest led me to base my final degree project on Open RAN (Open Radio Access Network), exploring how this innovative trend can drive advancements in a sector dominated by major vendors.
 
-<h2>🤳 Connect with me:</h2>
+While technology is my primary passion, I am equally driven by the business aspects of my projects. I have had the privilege of designing, presenting, and selling solutions to various companies in Paraguay, always considering both the technical and business perspectives.
+
+## 👨‍💻 IT Projects:
+<!-- List your IT projects here -->
+
+## 👨‍💻 Cybersecurity Projects:
+<!-- List your Cybersecurity projects here -->
+
+## 👨‍💻 Investigation Projects:
+- **Study of Open RAN Architecture as an Alternative Radio Access Network in Paraguay**
+
+## 👨‍💻 Programming Projects:
+- **Data Structures and Algorithms Practice (AlgoExpert)**
+- **PowerShell**
+- **C# (.NET Desktop Applications)**
+- **Python**
+
+## 🤳 Connect with me:
 <a href="https://linkedin.com/in/ruben-conteiro-8b06a3204/" target="_blank">
   <img align="left" alt="Rubén Conteiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
