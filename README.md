@@ -9,7 +9,9 @@ I have a strong passion for telecommunications, particularly mobile networks. Th
 While technology is my primary passion, I am equally driven by the business aspects of my projects. I have had the privilege of designing, presenting, and selling solutions to various companies in Paraguay, always considering both the technical and business perspectives.
 
 ## 👨‍💻 IT Projects:
-<!-- List your IT projects here -->
+- **[]()**
+- **[]()**
+- **[]()**
 
 ## 👨‍💻 Cybersecurity Projects:
 <!-- List your Cybersecurity projects here -->
@@ -18,10 +20,10 @@ While technology is my primary passion, I am equally driven by the business aspe
 - **[Study of Open RAN Architecture as an Alternative Radio Access Network in Paraguay](https://drive.google.com/file/d/1x-LXsrnsIo4DgiU5CNKhUUsWkO5_2J4U/view?usp=sharing)**
 
 ## 👨‍💻 Programming Projects:
-- **Data Structures and Algorithms Practice (AlgoExpert)**
-- **PowerShell**
-- **C# (.NET Desktop Applications)**
-- **Python**
+- **[Programming of a Webhook for Centralized gathering of data from IP Cameras using their Propietary API](https://github.com/rconteiro98/webhook-camaras)**
+- **[Containerization of Django APP]()**
+- ****
+- ****
 
 ## 🤳 Connect with me:
 <a href="https://linkedin.com/in/ruben-conteiro-8b06a3204/" target="_blank">
